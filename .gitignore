@@ -21,3 +21,12 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore all test coverage files
+/coverage
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode files
+.vscode
